@@ -1,0 +1,8 @@
+assets/images/
+├── hero.jpg                    (صورة رئيسية)
+├── designer1.jpg              (صورة أحمد محمد)
+├── designer2.jpg              (صورة محمد خالد)
+├── designer3.jpg              (صورة أسامة أحمد)
+├── food-aid.jpg              (صورة مساعدات غذائية)
+├── medical-aid.jpg           (صورة مساعدات طبية)
+└── water-aid.jpg             (صورة توزيع مياه)
